@@ -30,3 +30,4 @@ Social pressure (nobody wants to be the team that looks bad in the reports)
 stakeholder committee regular cadence
 IT policy and FinOps presentations & personal relationships
 We try and demonstrate the value in high visibility forums. 
+Gamification (Leaderboard in waste reduction), Org level KPIs(per unit cost as per the product), Efficiency KPI(Waste as percentage of spend), Cost Efficency Satndard(internal to org/company), mapping finops Efficency in org hierarchy from SRE to VP level, brown bag session on finops
